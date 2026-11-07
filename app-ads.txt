@@ -1,5 +1,4 @@
 google.com, pub-5126105382633328, DIRECT, f08c47fec0942fa0
-unity3d.com, 659899, 659899, 26d03cf8ba192539
 ironsrc.com, 659899, DIRECT, 2c19e5d260c23f79
 adwmg.com, 159512, RESELLER, c9688a22012618e7
 appads.in, 106246, RESELLER
